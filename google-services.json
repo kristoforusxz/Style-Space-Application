@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934482768440",
+    "project_id": "stylespace-22563",
+    "storage_bucket": "stylespace-22563.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934482768440:android:2fa3093f1e85e952a2eccd",
+        "android_client_info": {
+          "package_name": "com.rich.stylespace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeaPXg8wz3MebSC68OKdHuJMfHYZ20g2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
